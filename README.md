@@ -9,7 +9,7 @@ Hey to be fair, reverse engineering tests on questions can be fun
 
 ## Changing Usernames
 This was a relatively obvious one as the two accepted outputs are "Yes" and "No" so initially we started with 
-```
+```py
 print("Yes")
 ```
 This returned 16.5/30 which was great, but upon talking to some friends about optimising, I joked about randomising and we realised this was an actually not bad idea so naturally we ran a basic randomizer in
